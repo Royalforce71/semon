@@ -49,8 +49,8 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•SEMON OFFICIAL•◈•
-|__\~~) •||•ROYAL-FORCE71------•◈•
+|__(~)    •||•------SEMON-OFFICIAL-----•◈•
+|__\~~) •||•--------ROYAL-FORCE71------•◈•
 |__(-----\  •◈•------BANGLADESH---•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSEMON MEHRAN
-\033[1;96mInstagram \033[1;93m: \033[1;92mCall_me_semon
-\033[1;96mFacebook  \033[1;93m: \033[1;92m SayHi2Semu
+\033[1;96mAuthor  \033[1;93m: \033[1;92m----SEMON MEHRAN---
+\033[1;96mInstagram \033[1;93m: \033[1;92m--Call_me_semon--
+\033[1;96mFacebook  \033[1;93m: \033[1;92m---SayHi2Semu--
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Royalforce71/semon.git
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "semon"
-CorrectPassword = "sem "
+CorrectPassword = "semon"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +100,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
-    else:
+            os.system('xdg-open https://www.Royalforce71.com')
+    else: 
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.Royalforce71.com')
 
 def login():
 	os.system('clear')
